@@ -1,0 +1,7 @@
+El consumo de lamparas VSAP es de:
+2599.16 euros con 10697 lamparas con potencia de 250W
+El consumo de lamparas LED´S es de:
+0.34 euros con 5 lamparas con potencia de 70W
+El consumo total de las dos lamparas es de: 2599.50
+Si sustituimos las lamparas VSAP por las lamparas LED´S el consumo de las dos lamparas es de: 
+1067.94 eurosDiferencia de: 2598429.25

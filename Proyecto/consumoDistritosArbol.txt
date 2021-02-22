@@ -1,0 +1,15 @@
+Consumo Centro:
+759145.7500 euros
+----------------------
+Consumo Norte:
+404649.2188 euros
+----------------------
+Consumo Sur:
+440329.4688 euros
+----------------------
+Consumo Oeste:
+341105.5312 euros
+----------------------
+Consumo Pedanias:
+474770.8125 euros
+----------------------

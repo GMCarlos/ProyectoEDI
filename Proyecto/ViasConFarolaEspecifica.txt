@@ -1,0 +1,799 @@
+Sanguino Michel 465
+Obispo Jesus Dominguez 3400
+Rodriguez De Ledesma 1125
+Viena 532
+Islas Baleares 3756
+Isla De Cerdeña 3594
+Islas Filipinas 3591
+Capricornio 3394
+Piscis 3395
+Calderon De La Barca 94
+Islas Azores 3589
+Alfonso Diaz De Bustamante 3611
+Islas Cies 3729
+Virgo 3304
+Libra 3379
+Escorpio 3424
+Lisboa 281
+Reval 408
+San Juan De Dios 1285
+Isla De Rodas 3755
+Isla De Creta 3596
+Orion 3305
+Osa Mayor 3396
+Leo 3390
+Isla De Sicilia 3593
+Juan Caldera 266
+Islas Canarias 3666
+Vicente Barrantes 531
+Batalla Del Salado 74
+Jose Luis Cotallo 3534
+Botanico Rivas Mateos 3566
+Virgen De La Montaña 541
+Roma 3452
+Amberes 3445
+Hernando De Soto 238
+Santa Teresa De Jesus 3545
+Consul Lucio Cornelio Balbo 143
+Abilio Rodriguez Rosillo 3656
+Espadan 1717
+Aperadores 50
+Dionisio Acedo 3495
+Almirante Solano Bote 20
+Arequipa 55
+Antonio Floriano Cumbreño 2363
+Lima 278
+Picos De Europa 3600
+Coimbra 3443
+Monfragüe 3598
+Oporto 3442
+Diego Maria Crehuet 159
+Colonia 3451
+Periodista Sanchez Asensio 377
+Donoso Cortes 168
+Paris 3497
+Pisa 3450
+Berlin 3449
+Florencia 3448
+Marron 304
+Londres 3446
+Carreteros 111
+Garcia Plata De Osma 208
+Gredos 3604
+De Alemania 1219
+Virgen De Guadalupe 537
+Alfonso Ix 17
+Padre Eladio Mozas 3626
+Segundo Perez 470
+Carvajal Lancaster 1092
+Reyes Catolicos 409
+Del Ferrocarril 4142
+Francisco Paniagua 192
+San Jorge 1171
+Marques De Oquendo 303
+Doñana 3605
+Comandante Joaquin Gonzalez 136
+Los Fueros 1890
+Octavio Paz 3377
+Cazorla 3602
+Ordesa 3601
+Ceres 122
+De Las Arenas 4143
+Gran Bretaña 3428
+Luxemburgo 3431
+Suiza 3623
+De Portugal 1576
+Federico Ballell 188
+Palencia 3535
+Casas De Cotallo 114
+Francia 3433
+Alfonso Ix 18
+Gil Cordero 222
+Gomez Becerra 227
+Plus Ultra 389
+San Pedro 1556
+Clavellinas 2093
+Roa Bastos 3456
+Carlos Callejo 3459
+Linares 280
+Juan Xxiii 268
+Argentina 57
+Hermandad 234
+Gabino Muriel 3114
+Garcia Marquez 3454
+Dinamarca 3434
+De Noruega 3613
+Doctor Marañon 3571
+De Suecia 3660
+Juan Blanco 265
+Cayo Norbano Flaco 1040
+Fray Bartolome De Las Casas 3559
+Independencia 252
+Lusitania 288
+Peña Redonda 370
+Antonio Canales 2928
+Cano De Saavedra 101
+Nueva 351
+Reconquista 407
+Yuste 545
+Tirso De Molina 505
+Moraleja 3292
+General Margallo 213
+De Las Delicias 2936
+Zorrilla 548
+Clara Campoamor 3980
+Plasencia 388
+Coria 144
+Pintor Velazquez 384
+Pintor Murillo 383
+Madame Curie 3978
+Ramon Y Cajal 3409
+Hernan Cortes 2456
+Alcantara 12
+Concepcion Arenal 3976
+Constancia 142
+De Extremadura 3610
+Jean Henry Dunant 3413
+Heroes De Baler 239
+Lope De Vega 284
+Rodrigo Gil De Hontañon 3314
+Gonzalo De Vega 3161
+Larra Y Churriguera 3138
+Hortelanos 248
+El Greco 1854
+Julio Romero De Torres 420
+Tintoretto 162
+Benlliure 79
+Andres Alonso 3165
+Sancho De Cabrera 3093
+Nuestra Señora De La Asuncion 2713
+Goya 228
+Berruguete 81
+Sorolla 478
+Barreron 3935
+Zuloaga 549
+Fortuny 2468
+Españoleto 180
+Lezcano 277
+Del Moral 1557
+Charca Del Oso 3938
+El Juncal 3942
+Corvilla 3936
+Cerro Del Royo 3937
+De La Cruz Roja 4032
+Julian Perate Barroeta 3736
+Lucas De Burgos 3742
+Santo Tomas De Aquino 4158
+Enrique Perez Comendador 3412
+Pedro De Ibarra 3734
+Rafael Lucenqui Martinez 3737
+Andres Burgos 3735
+Benito Arias Montano 3741
+Domingo Sanchez Loro 3738
+Juan Pablo Forner 3739
+Pedro Romero Mendoza 3733
+Arsenio Gallego Hernandez 3740
+Castra Caecilia 3943
+Castra Servilia 3944
+Tenerias Altas 4025
+Caceres El Viejo 3934
+Pozo De La Nieve 3932
+Bartolome Jose Gallardo 3754
+Andres Valiente Valiente 3743
+Miguel Angel Orti Belmonte 3732
+Marte 305
+Del Palancar 4013
+Ana Mariscal 3663
+Juan Ramon Marchena 3869
+Marcos Mariño Baez 3871
+Pedro Nuñez Llanos 3872
+Calatayud 87
+Fausto Picapiedra 3870
+Escampleros 966
+Mar Tirreno 3405
+Jose Reveriego Pedrazo 4017
+Santa Rita 2001
+Las Aguilas 4088
+Los Milanos 4097
+Del Sol 2720
+Valincoso 272
+Venus 530
+San Marquino 443
+La Higuerilla 3939
+Cordel De Merinas 3930
+Los Gavilanes 4096
+Las Ocas 4093
+Los Cormoranes 4098
+Las Grullas 4091
+Maria Pita 3977
+Teresa De Calcuta 3979
+Agustina De Aragon 3975
+Jose Redondo 3139
+Fuente Regajos 3931
+Jacinto Benavente 4035
+Severo Ochoa 4120
+Juan Jose Narbon 4048
+Jose De Espronceda 4038
+Jose Bermudo Mateos 3764
+Joan Miro 4046
+Pablo Ruiz Picasso 4045
+Emilio Cardenal Hernandez 4049
+Gonzalo Mingo 3665
+Salvador Dali 4047
+Rio Jerte 3899
+Simon Benito Boxoyo 3317
+De Los Cuatro Lugares 3873
+Del Alba 3927
+Alegria 3845
+Juan Rodriguez De Molina 3299
+Las Adelfas 3880
+Peñalara 3901
+Los Serranillos 3905
+De La Luz 3926
+Los Tomillos 3879
+Pedro Ulloa Golfin 3319
+Vicente Aleixandre 4036
+Valeriano Gutierrez Macias 4044
+Castellar 3900
+Miguel De Unamuno 4039
+Pio Baroja 4042
+Azorin 4040
+Camilo Jose Cela 4037
+Jose Echegaray 4033
+Valle-inclan 4041
+Antonio Machado 4043
+Juan Ramon Jimenez 4034
+Guillermo Marconi 4127
+Hermanos Lumiere 4126
+Claudio Ptolomeo 4121
+Nicolas Copernico 4122
+Juan De La Cierva 4123
+Gaspar Muñoz 3141
+Albert Einstein 4130
+Zaragoza 76
+De Las Lavanderas 3929
+Isaac Peral 4124
+Alfambra 597
+Arquimedes 4131
+Miguel Servet 4125
+Leonardo Da Vinci 4132
+Angel Fernandez 3140
+Pitagoras 4128
+Thomas Alva Edison 4129
+Joselito Romero 3131
+Rio Aravalle 3898
+Ortega Y Gasset 4157
+Socrates 4165
+"Cayetano Polo ""polito""" 3662
+Santiago Caldera 3664
+Manuel Castillo Quijada 3320
+Encina 175
+Rio Tormes 3897
+Tomas Pulido Pulido 3318
+Rio Alberche 3896
+Del Arenal 3902
+Rio Jaranda 3895
+Los Narros 3903
+Santa Rosa De Lima 1015
+Aguas Vivas 5
+Antonio De Nebrija 3844
+Descartes 4170
+San Agustin 4159
+Ocho De Marzo 3758
+Obispo Ciriaco Benavente 218
+Tolerancia 3759
+Los Romeros 3875
+De Torrejon El Rubio 4020
+Los Lirios 3881
+Las Retamas 3882
+De Las Camelias 3982
+Los Abedules 3885
+Los Geranios 3884
+De Las Magnolias 3981
+De La Cebada 3960
+Los Jazmines 3883
+Los Sauces 3888
+Miraflores 3874
+Los Trigales 3878
+Las Margaritas 3876
+Los Almendros 3887
+Los Fresnos 3890
+Los Tilos 3889
+Las Zarzamoras 3894
+Los Cipreses 3925
+Los Abetos 3886
+Los Laureles 3891
+Los Espliegos 3893
+Las Violetas 3877
+Los Enebros 3892
+Busquet 1368
+Trabajo 510
+Betania 82
+Trujillo 3550
+Tenerias 500
+Herreros 3993
+Alpargateros 4000
+El Madruelo 3867
+Esquiladores 3994
+Tejedores 3995
+Silleros 4001
+San Juan De Avila 3728
+Comarca De Las Villuercas 3380
+Comarca De Gata 3385
+Rio Salor 3371
+Comarca Del Ambroz 3381
+Comarca De Las Hurdes 3386
+Rio Alagon 3382
+De La Montaña 1024
+Huerta Del Conde 3956
+La Bula 3958
+Alto De Fuente Fria 2975
+Molineros 3992
+Hojalateros 3996
+Hilanderas 3998
+Poceros 3997
+Daoiz 154
+Ceclavin 104
+Arapiles 52
+Toneleros 3999
+Barrio Nuevo 263
+Fuente Concejo 193
+Urano 520
+Juan Sebastian Bach 4101
+De San Francisco 1427
+Fuente Fria 194
+Garcia Holguin 207
+Gran Capitan 229
+Viriato 543
+San Jose 654
+Numancia 352
+Carlos V 107
+Diana 158
+Huesca 1006
+Adarve Del Cristo 3
+San Roque 450
+Barrio De San Antonio 3487
+Amargura 27
+Neptuno 344
+Concordia 1064
+Armonia 60
+De Ibarrola 3375
+Santa Vera Cruz 1906
+Tomas De La Huerta 507
+Padre Bayle 361
+Teruel 502
+Eulogio Blasco 185
+Martin Cerezo 306
+Villuercas 534
+Trajano 1452
+Berrocala 80
+Santa Gertrudis 732
+Caleros 95
+Rivera De Curtidores 416
+Rincon De La Monja 410
+Fuente Rocha 1496
+Derechos Humanos 3661
+Maestro Angel Rodriguez 293
+Alzapiernas 1038
+Del Maestre 292
+Villalobos 533
+Hornillos 1195
+Obras Pias De Roco 2483
+Condes De Santa Olalla 3624
+Picadero 3538
+Fernando Bravo 498
+Nuestra Señora De La Montaña 3580
+Camberos 3569
+Zapateria 547
+Godoy 225
+Puente Vadillo 398
+De La Consolacion 1017
+Sanchez 3234
+Motril 331
+Carrera 2092
+De San Francisco 1619
+Macarena 289
+Hermanos Romero Ruiz 1541
+San Ignacio 1394
+Santa Joaquina De Vedruna 977
+Andrada 34
+Miguel Cordero Del Campillo 3920
+De La Universidad 3425
+Madrid 3235
+Estambul 3642
+Aries 3387
+Tauro 3391
+Geminis 3388
+De Badajoz 4006
+Avila 3629
+Sancho De Figueroa 3331
+Berna 3639
+De La Hispanidad 1288
+Mario Vargas Llosa 3453
+Pedro De Lorenzo 3378
+Rafael Alberti 3106
+Cesar Vallejo 3125
+Pedro Caba 3376
+Manuel Pacheco 3123
+Sagitario 3393
+Malpartida De Caceres 298
+Torre De Floripes 3988
+Logrosan 282
+San Petersburgo 3640
+La Habana 3635
+Cañada 4019
+Potosi 3634
+Juan Solano Pedrero 3643
+Juan Pablo Ii 4018
+Brasilia 3633
+Segovia 3630
+Tunez 3641
+Jerusalen 3645
+Marrakech 3628
+Atenas 4144
+Belgica 3430
+Isla De Corcega 3592
+Campofrio 3941
+Los Riberos 3933
+Los Halcones 4095
+Norte 4022
+Las Codornices 4086
+Los Cernicalos 4089
+Remedios Buendia 3964
+Jesus Delgado Valhondo 3145
+Rio Tamuja 3383
+Las Abubillas 4090
+Del Casar 2271
+De La Reina 151
+La Marañosa 681
+De Trujillo 514
+Cañamero 3848
+De La Trashumancia 3990
+Pozo De La Esmeralda 3765
+Caparra 3989
+Llanos De Caceres 3767
+Miguel Serrano 3609
+Rio Tietar 3384
+Arroyo De Valhondo 3983
+Sierra De San Pedro 3766
+Sierra De La Mosca 3768
+Los Barruecos 3769
+Cerro De Los Pinos 3655
+Juan Garcia Garcia 3646
+Santa Lucia 3367
+Caparros 4003
+Hervas 240
+Monroy 320
+Barriada El Chato 3479
+Casas Del Monte 3846
+Comarca De Granadilla 3770
+Cornalvo 3597
+Torrejoncillo 3242
+Comarca De La Serena 3772
+Mina De La Jayona 3773
+Proserpina 3774
+Comarca De Tentudia 3771
+Rio Tiber 3467
+Rio Rodano 3364
+Jesus Nazareno 262
+Santa Cristina 3478
+Jaraiz De La Vera 259
+Rio Ural 3369
+Rio Danubio 1391
+Rio Volga 413
+Tortola 3336
+German Sellers De Paz 3647
+La Perdiz 3341
+Jilguero 3339
+Canario 99
+Golondrina 3335
+Alondra 3327
+Lucas Burgos Capdevielle 3648
+Rio Rhin 3468
+Garrovillas 209
+Luis Bravo Hernandez 3471
+Rio Elba 217
+Rio Sena 3365
+Artesanos 3488
+Hoyos 249
+Navalmoral De La Mata 339
+Aliseda 19
+Arroyo De La Luz 61
+Villamiel 3847
+Montanchez 324
+Montehermoso 3330
+Jarandilla 2495
+Obispo Segura Saez 354
+San Pedro De Alcantara 2499
+Cigüeña 3333
+Rio Tamesis 1610
+Rio Vistula 3372
+Sargento Serrano Leite 469
+Verdi 4119
+Narciso Yepes 4112
+Beethoven 4103
+Strauss 4104
+Oceano Atlantico 3213
+Vivaldi 4100
+Joaquin Turina 4109
+Puccini 4108
+Francisco Tarrega 4113
+Oceano Pacifico 3216
+Mozart 4102
+Joaquin Rodrigo 4110
+Jesus Asuncion 3252
+Residencial San Francisco 3498
+Antonio Hurtado 1390
+Pavia 1460
+Covadonga 1242
+Leon Leal 276
+Virgen Del Pilar 542
+Maluquer 1135
+Profesor Rodriguez Moñino 3539
+Toledo 3549
+Hermandad Donantes De Sangre 3199
+Guadalquivir 231
+Bizet 4106
+Almonte 21
+Felix Candela Rodriguez 4117
+Ravel 4105
+Juanito Barra 4115
+Felipe Sarro Lara 4114
+Cueva Del Escoural 4071
+Rosario 1061
+Isaac Albeniz 4111
+Chopin 4107
+Profesor Hernandez Pacheco 393
+Alvaro Lopez Nuñez 24
+Del Carmen 3507
+Catedratico Antonio Silva 119
+Pablo Naranjo Porras 3809
+Grecia 3427
+El Redoble 1009
+Roncesvalles 2082
+Atahualpa 65
+Teide 3548
+De Hispanoamerica 4009
+Cerandeo 121
+Angelita Capdevielle 36
+Arbolito 53
+Maria Auxiliadora 3945
+De La Bondad 578
+Caupolican 120
+Irlanda 3429
+Isabel De Moctezuma 4016
+Italia 3426
+Paises Bajos 3432
+Mulhacen 3532
+Aneto 3500
+De Austria 3658
+Isabel De Moctezuma 1635
+De Los Pilares 3619
+Rondeña 421
+Alborada 11
+El Pinar 599
+Trafalgar 1744
+Emilio Herrero 174
+Lepanto 2593
+Julian Murillo 270
+Padre Leocadio 3950
+Inocencio Jimenez 254
+Madre Isabel Larrañaga 3928
+Medico Sorapan 3528
+Cuauhtemoc 3079
+Huaina Capac 3302
+Salamanca 453
+Maladeta 3524
+Bolivia 83
+Antonio Reyes Huertas 3557
+San Vicente De Paul 829
+De Maltravieso 4057
+Oceano Antartico 3402
+Reñidero De Gallos 1120
+De Dulcinea 3014
+Venezuela 529
+Cristu Benditu 2235
+Mariano Carbajo De Sande 4116
+La Roche Sur Yon 1962
+Cuba 150
+Colombia 133
+Del Espiritu Santo 182
+Rio Turia 1335
+Rio Ebro 172
+Chile 127
+Rio Darro 1471
+Ecuador 173
+Rio Miño 972
+Nicaragua 345
+Duero 169
+Guadiana 232
+Beata Madre Matilde 3954
+De La Pizarra 3010
+Mejico 3763
+Muñoz Torrero 3868
+Sergio Sanchez 897
+Pierre De Coubertin 3625
+De Finlandia 3659
+Gallegos 204
+Roso De Luna 186
+Ramiro De Maeztu 3540
+Gran Via 155
+Bellavista 3565
+Albacete 3556
+Santa Luisa De Marillac 869
+Juan Luis Cordero 3521
+Sanchez Manzano 460
+Arturo Aranguren 3558
+Malaga 3525
+Badalona 3563
+De España 3048
+Rio Turia 516
+Frey Nicolas De Ovando 3951
+Fernand Montlahuc 3627
+Madre De La Ribera 3957
+Martin Duque Fuentes 4021
+Maria Antonia Fuertes 3911
+El Brocense 1142
+De Cervantes 3071
+Molino Harinero 3955
+Menendez Pelayo 3529
+Paraguay 3536
+Peru 3537
+Amor De Dios 31
+Cueva De La Becerra 4060
+Olivo 357
+Cueva De La Pasiega 4065
+El Roble 1358
+Sierpes 473
+Cerezo 123
+Jara 258
+Cabrera 3506
+Oaxaca 3636
+Cordoba 3632
+Andalucia 33
+Honduras 3518
+Cataluña 118
+Navarra 341
+Aragon 51
+Evora 3637
+De Los Conquistadores 4011
+Santa Apolonia 1833
+Santa Barbara 1419
+San Vicente 451
+Colon 134
+Fuente Nueva 195
+La Palacina 3907
+Guatemala 3514
+El Salvador 675
+Costa Rica 146
+Uruguay 3617
+Cueva Del Pindal 4066
+Cueva Del Castillo 4064
+Cueva De Lascaux 4067
+Generosidad 220
+Galicia 202
+Castaño 115
+Mallorca 3579
+Cueva De Santa Ana 4059
+Cueva De Gargas 4061
+Cueva De Altamira 4063
+Cueva Del Conejar 4058
+Cueva De Atapuerca 4069
+Cueva De Tibiran 4062
+Ibiza 3519
+Menorca 3530
+Isla De Lanzarote 3522
+Jupiter 271
+De La Mesta 3986
+Pluton 4031
+Aldeanueva Del Camino 4050
+Baños De Montemayor 4051
+Cueva Font De Gaume 4068
+Granadilla 4054
+Buitrera 3909
+Mar Rojo 3730
+Valdeflores 3908
+Galisteo 4053
+El Corchito 3906
+Camino Mozarabe 3985
+De Los Miliarios 3984
+Mar De Bering 3731
+Grimaldo 4055
+Oceano Artico 3212
+Puente De La Mocha 3987
+Cañaveral 4052
+Valdesalor 4056
+Mar Cantabrico 3404
+Cueva De La Pileta 4070
+La Calzada 3991
+Mar Baltico 3203
+Felipe Uribarri Vergel 3572
+Arco De España 54
+Pintores 1205
+Eugenio Frutos 3147
+Jose Canal Rosado 3144
+Jose Arcadio Buendia 3959
+Doctor Alirio Noguera 3961
+Gabo 3965
+Enrique Diez Canedo 3223
+Alfonso Albala 3148
+Carolina Coronado 3143
+Claudio Rodriguez 3105
+Acuario 3389
+Jose Maria Valverde 3136
+Beato Jose Oriol 75
+Buscarruidos 89
+Luis Alvarez Lencero 3225
+Alejo Carpentier 3455
+De San Blas 3052
+Bailen 72
+Henry Tissier 3312
+8 De Septiembre 3423
+Narciso Puig Mejias 3419
+"Francisco ""el Hombre""" 3972
+Aureliano Segundo 3970
+Padre Nicanor 3971
+Cien Años De Soledad 3966
+"Melquiades ""el Gitano""" 3967
+Paraiso Terrenal 3973
+Pilar Ternera 3968
+Ursula Iguaran 3969
+"Remedios ""la Bella""" 3974
+Gloria Fuertes 3761
+Bioy Casares 3457
+Ruta De La Plata 1901
+Coronel Aureliano Buendia 3962
+Napoles 338
+Niza 347
+De Armas 2131
+Monaco 318
+Venecia 528
+Doctor Fleming 165
+Nazaret 3533
+De Gante 665
+Isla De Hierro 3588
+De Juan De Borbon Y Battenberg 3745
+Isla De La Palma 3586
+Isla De Tenerife 3583
+Isla De La Gomera 3587
+Isla De La Toja 3744
+Manuel Redondo Felipe 3949
+Justino Burgos Gonzalez 3919
+Las Garcillas 4092
+Las Avutardas 4094
+Angel Sanchez Rodrigo 3948
+Jose Maria Garcia Lafuente 3917
+Pedro Lain Entralgo 3910
+Alonso Zamora Vicente 3912
+Manuel Alvar Lopez 3913
+Federico Mayor Zaragoza 3914
+Antonio Hernandez Gil 3915
+Juan Manuel Rozas 3916
+Oscar Arias Sanchez 3922
+Jose Antonio Fernandez Ordoñez 3918
+Jorge Mario Garcia Laguardia 3921
+Los Alimoches 4087
+Beltran 3940
+Ribera De Caceres 3947
+Arroyo De La Madre 3946
+Del Matadero 3527
+Damas 152
+San Ildefonso 433
+Mira Al Rio 657
+Camino Llano 611
+Arco De La Estrella 2440
+Velarde 526
+Teniente Ruiz 3414
+De Las Canterias 1078
+San Justo 441
+Santo Domingo 1968
+Darwin 4163
+Pascal 4164
+Del Amor 1307
+De La Caridad 1378
+Valencia 523
+Del Madroño 1708
+De La Fe 2189
+Del Naranjo 674
+Fuerteventura 3575
+Asturias 63
